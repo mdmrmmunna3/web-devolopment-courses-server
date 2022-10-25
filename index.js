@@ -14,17 +14,30 @@ app.get('/', (req, res) => {
 })
 
 // call course-category.json 
-app.get('/category', (req, res) => {
+app.get('/course-category', (req, res) => {
     res.send(categorys)
 })
 
-// dynamically call
-app.get('/category/:id', (req, res) => {
+// dynamically call by id
+app.get('/course-category/:id', (req, res) => {
     const id = req.params.id
     const courseCategory = categorys.find(category => category.id === id)
-    console.log(id, courseCategory)
     res.send(courseCategory)
 })
+
+// call courses.json
+app.get('/courses', (req, res) => {
+    res.send(courses)
+})
+
+// dynamically call by id
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id
+    const course = courses.find(cour => cour.id === id)
+    console.log('call',id, course)
+    res.send(course)
+})
+
 
 app.listen(port, () => {
     console.log(`Web development course server running on port ${port}`)
