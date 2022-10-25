@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "name": "CSS"
+    },
+    {
+        "id":"2",
+        "name": "HTML"
+    },
+    {
+        "id":"3",
+        "name": "JAVASCRIPT"
+    },
+    {
+        "id":"4",
+        "name": "NODE_EXPRESS"
+    },
+    {
+        "id":"5",
+        "name": "REACT_JS"
+    },
+    {
+        "id":"6",
+        "name": "PHP"
+    },
+    {
+        "id":"7",
+        "name": "MONGODB"
+    },
+    {
+        "id":"8",
+        "name": "PYTHONE"
+    }
+]
