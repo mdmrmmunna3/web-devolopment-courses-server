@@ -19,9 +19,10 @@ app.get('/course-category', (req, res) => {
 })
 
 // dynamically call by id
-app.get('/course-category/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
     const id = req.params.id
-    const courseCategory = categorys.find(category => category.id === id)
+    const courseCategory = courses.filter(category => category.category_id === id)
+    console.log('id', id)
     res.send(courseCategory)
 })
 
@@ -34,7 +35,7 @@ app.get('/courses', (req, res) => {
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id
     const course = courses.find(cour => cour.id === id)
-    console.log('call',id, course)
+    console.log('call',id)
     res.send(course)
 })
 

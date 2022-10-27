@@ -4,96 +4,103 @@
     "img": "https://www.codespot.org/assets/css.jpg",
     "name": "CSS",
     "title": "Welcome To Learn CSS",
-    "desciption": " * This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS: logo to navigate the modules. ",
+    "desciption": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS : logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface.Each module is full of interactive demos and self-assessments for you to test your knowledge. In addition to learning through reading and demos, there is an accompanying podcast episode for each topic as another way to learn and continue expanding your knowledge. This course is created for beginner and advanced CSS developers alike. You can go through the series from start to finish to get a general understanding of CSS from top to bottom, or you can use it as a reference for specific styling subjects. For those new to web development overall, check out the intro to HTML course from MDN to learn all about how to write markup and link your stylesheets.",
     "category_id": "1",
-    "rating": [
+    "rating": 
       {
-        "number": "4.6"
+        "number": 4.6
       }
-    ]
+    
   },
   {
     "id": "6357ce57d401ead8c72bc528",
     "img": "https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/uNe4OQfREZVVpnQOBxiA.png?auto=format",
     "name": "HTML",
-    "desciption": "Nostrud deserunt ullamco aliquip incididunt nulla minim exercitation deserunt amet ullamco cupidatat dolor consequat. Dolor ad aute in veniam nostrud ea est esse quis excepteur. Consectetur quis aute ex occaecat culpa voluptate sint irure officia. Dolore veniam ex sit adipisicing adipisicing. Et nisi in proident sint.\r\n",
+    "title": "Welcome To Learn HTML",
+    "desciption": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). 'Hypertext' refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web. 'Getting started with the web' Getting started with the web is a concise series introducing you to the practicalities of web development. You'll set up the tools you need to construct a simple webpage and publish your own simple code. By working through the articles listed below, you will go from nothing to getting your first webpage online. Let's begin our journey! 'HOW to the work on web' When you access your favorite website, a lot of complicated things happen in the background that you may not know about. Here we will outline what happens when you view a webpage on your computer.",
     "category_id": "2",
-    "rating": [
+    "rating": 
       {
-        "number": "4.6"
+        "number": 4.6
       }
-    ]
+    
   },
   {
     "id": "6357ce57a3144b35ee87d154",
     "img": "https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg",
     "name": "JAVASCRIPT",
-    "desciption": "Lorem nisi aliquip quis magna aliquip. Esse aute in non duis deserunt ut exercitation ut in occaecat. Eu nisi amet commodo laboris magna. Laboris id sint sunt laboris sint esse commodo fugiat ut Lorem deserunt. Sunt laboris dolor irure laborum laboris. Dolor eu amet elit id cillum dolor.\r\n",
+    "title": "Welcome To Learn JAVASCRIPT",
+    "desciption": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript. This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM. JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible. 'what is javascript:' JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!",
     "category_id": "3",
-    "rating": [
+    "rating": 
       {
-        "number": "4.8"
+        "number": 4.8
       }
-    ]
+    
   },
   {
     "id": "6357ce57f2242b2ce23cc837",
     "img": "https://miro.medium.com/max/1051/1*vHw6ENUfu71KHiyTm0BtUA.png",
     "name": "NODE_EXPRESS",
-    "desciption": "In qui nulla excepteur consequat sit sit pariatur cillum ea irure cupidatat nisi cupidatat occaecat. Exercitation aliquip adipisicing et dolor adipisicing magna qui. Ullamco cillum sunt qui consequat nostrud veniam irure.\r\n",
+    "title": "Welcome To Learn NODE_EXPRESS",
+    "desciption": "In this first Express article we answer the questions 'What is Node?' and 'What is Express?', and give you an overview of what makes the Express web framework special. We'll outline the main features, and show you some of the main building blocks of an Express application (although at this point you won't yet have a development environment in which to test it) Great performance! Node was designed to optimize throughput and scalability in web applications and is a good solution for many common web-development problems (e.g. real-time web applications).Code is written in 'plain old JavaScript', which means that less time is spent dealing with 'context shift' between languages when you're writing both client-side and server-side code.JavaScript is a relatively new programming language and benefits from improvements in language design when compared to other traditional web-server languages (e.g. Python, PHP, etc.) Many other new and popular languages compile/convert into JavaScript so you can also use TypeScript, CoffeeScript, ClojureScript, Scala, LiveScript, etc.",
     "category_id": "4",
-    "rating": [
+    "rating": 
       {
-        "number": "4.5"
+        "number": 4.5
       }
-    ]
+    
   },
   {
     "id": "6357ce5706bcbc6ab89dfb47",
     "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
     "name": "REACT_JS",
-    "desciption": "Nulla aliqua veniam culpa esse nulla amet ex et laborum. Reprehenderit incididunt magna reprehenderit tempor sit nulla commodo non velit dolor adipisicing excepteur officia officia. Veniam officia adipisicing deserunt ea officia do ea sint excepteur.\r\n",
+    "title": "Welcome To Learn REACT_JS",
+    "desciption": "React's primary goal is to minimize the bugs that occur when developers are building UIs. It does this through the use of components — self-contained, logical pieces of code that describe a portion of the user interface. These components can be composed together to create a full UI, and React abstracts away much of the rendering work, leaving you to concentrate on the UI design. Unlike the other frameworks covered in this module, React does not enforce strict rules around code conventions or file organization. This allows teams to set conventions that work best for them, and to adopt React in any way they would like to. React can handle a single button, a few pieces of an interface, or an app's entire user interface. 'How does React use JavaScript?' React utilizes features of modern JavaScript for many of its patterns. Its biggest departure from JavaScript comes with the use of JSX syntax. JSX extends JavaScript's syntax so that HTML-like code can live alongside it.",
     "category_id": "5",
-    "rating": [
+    "rating": 
       {
-        "number": "4.7"
+        "number": 4.7
       }
-    ]
+    
   },
   {
     "id": "6357ce57d23352f6fac97a96",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX3WjJjQRh2Plie5TbUPVeRTNbOAtGu_FIsV1FE_WQsywpsv9G8iHsxr3uJoD26gaPoo&usqp=CAU",
     "name": "PHP",
-    "desciption": "Duis magna labore fugiat tempor. Magna fugiat qui do excepteur elit magna aute id in in voluptate est mollit. Mollit esse laborum eiusmod labore tempor mollit. Sit irure ad dolore elit consequat laborum sint do. Sunt dolore proident enim cupidatat deserunt sit cupidatat ut consectetur. Ipsum nostrud laboris irure in reprehenderit excepteur dolore deserunt consequat aliqua enim. Mollit dolore laboris incididunt ipsum dolor tempor Lorem consectetur aliqua esse.\r\n",
+    "title": "Welcome To Learn PHP",
+    "desciption": "PHP (a recursive initialism for PHP: Hypertext Preprocessor) is an open-source server-side scripting language that can be embedded into HTML to build web applications and dynamic websites. // start of PHP code <?php // PHP code goes here ?> // end of PHP code There’s a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and insecure code. PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. There is no canonical way to use PHP. This website aims to introduce new PHP developers to some topics which they may not discover until it is too late, and aims to give seasoned pros some fresh ideas on those topics they’ve been doing for years without ever reconsidering. This website will also not tell you which tools to use, but instead offer suggestions for multiple options, when possible explaining the differences in approach and use-case.",
     "category_id": "6",
-    "rating": [
+    "rating": 
       {
-        "number": "4.4"
+        "number": 4.4
       }
-    ]
+    
   },
   {
     "id": "6357ce57a5cf8d549f3fda71",
     "img": "https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png",
     "name": "MONGODB",
-    "desciption": "Et et est aliquip minim consectetur officia cillum consectetur ut consectetur reprehenderit aliqua. Elit cillum voluptate veniam tempor Lorem laborum dolor tempor enim elit. Occaecat mollit elit veniam nulla ad consectetur deserunt ex. Veniam officia cupidatat ad quis exercitation eu consequat velit ullamco ut enim eiusmod aute. Nostrud voluptate deserunt enim exercitation.\r\n",
+    "title": "Welcome To Learn MONGODB",
+    "desciption": " MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies. MongoDB is a database that is more advanced and capable of handling big data with dynamic schema features. SQL Server is an RDBMS that is used to manage the relational database system and offers end-to-end business data solutions. In the case of unstructured data MongoDB is a good choice.Build Scalable High Performance Apps Using Our MongoDB Cloud Service. Focus More on Building Apps, and Less on Maintaining Database. ",
     "category_id": "7",
-    "rating": [
+    "rating": 
       {
-        "number": "4.7"
+        "number": 4.7
       }
-    ]
+    
   },
   {
     "id": "6357ce576103d66e6fc7a6d6",
     "img": "https://image.shutterstock.com/image-vector/vector-illustration-icon-python-programming-260nw-1397241389.jpg",
-    "name": "PYTHONE",
-    "desciption": "Est quis magna velit sint tempor enim veniam nulla. Cillum nulla Lorem amet esse enim. Occaecat aliquip culpa reprehenderit consequat mollit commodo labore non.\r\n",
+    "name": "PYTHON",
+    "title": "Welcome To Learn PYTHON",
+    "desciption": "Welcome! Are you completely new to programming? If not then we presume you will be looking for information about why and how to get started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, so jump in! Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective",
     "category_id": "8",
-    "rating": [
+    "rating": 
       {
-        "number": "4.8"
+        "number": 4.8
       }
-    ]
+    
   }
 ]
